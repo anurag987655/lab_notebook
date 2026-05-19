@@ -1,0 +1,8 @@
+marimo
+numpy
+matplotlib
+plotly
+pandas
+scipy
+ipywidgets
+jupyterlab
